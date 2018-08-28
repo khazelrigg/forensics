@@ -1,0 +1,30 @@
+{
+    "name": "DNA Exonerations",
+    "description": "Innocence Project Data",
+    "children": [
+        {
+            "name": "Involved Eyewitness Misidentification", "description": "Involved Eyewitness misidentification",
+            "children": [
+                {"name": "Cross-Racial Misidentification", "description": "Cross-Racial Misidentification",
+                    "children": [{"name":"Cross-Racial", "description": "Cross-Racial", "size":28.7}]
+                },
+                {"name": "Misidentifications of the same person", "description": "Misidentifications of the same person",
+                    "children": [{"name":"misidentifications of the same person", "description": "misidentifications of the same person", "size":22.4}]
+                },
+                {"name": "Composite sketch", "description": "Use of a composite sketch",
+                    "children": [{"name":"Use of a composite sketch", "description": "Use of a composite sketch", "size":18.9}]
+                }
+   
+            ]
+        },
+        {
+            "name": "Did not involve Eyewitness misidentification", "description": "No Eyewitness misidentification",
+            "children": [
+                {"name": "", "description": "No misidentification",
+                    "children": [{"name":"No misidentification", "description": "", "size":30}]
+                }
+            ]
+        }
+
+    ]
+}
